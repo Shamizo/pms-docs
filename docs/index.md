@@ -15,7 +15,7 @@ comments: false
 | :--- | :------------------------------------------------------------------------------------------- |
 | CPU  | [Intel® Core™ E5-2667 v2](https://www.intel.cn/content/www/cn/zh/products/sku/75273/intel-xeon-processor-e52667-v2-25m-cache-3-30-ghz/specifications.html "最大睿频频率 3.30GHz 16核") |
 | 内存 | 32G |
-| 网络 | 移动宽带<br />电信线路 frp穿透 200Mbps                                                          |
+| 网络 | 移动宽带<br />电信线路 frp穿透 200Mbps                                                          |                                                        |
 
 ## 赞助机制
 

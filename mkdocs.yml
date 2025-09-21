@@ -1,0 +1,109 @@
+site_name: PixelMine文档
+site_url: https://shamizo.top
+copyright: <b>PixelMine Server</b>
+extra_css:
+  - stylesheets/font.css
+  - stylesheets/color.css
+  - stylesheets/admonitions.css
+extra:
+  social:
+    - icon: simple/qq
+      link: https://qm.qq.com/q/WkeIsnc8OQ
+      name: QQ群
+    - icon: simple/tiktok
+      link: https://v.douyin.com/g6JxNJGlssk/ 8@0.com :3pm
+      name: 抖音
+plugins:
+  - search
+  - meta
+  - awesome-nav
+  - glightbox
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+  - pymdownx.snippets
+  - pymdownx.details
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+theme:
+  name: material
+  favicon: https://hub.gitmirror.com/raw.githubusercontent.com/DNPHINTI/PixelMine-Oss/refs/heads/main/%E9%80%A0%E5%9E%8B1.svg
+  logo: https://hub.gitmirror.com/raw.githubusercontent.com/DNPHINTI/PixelMine-Oss/refs/heads/main/%E9%80%A0%E5%9E%8B1.svg
+  icon:
+    previous: fontawesome/solid/angle-left
+    next: fontawesome/solid/angle-right
+    repo: fontawesome/brands/github
+    admonition:
+      note: fontawesome/solid/note-sticky
+      abstract: fontawesome/solid/book
+      info: fontawesome/solid/circle-info
+      tip: fontawesome/solid/bullhorn
+      success: fontawesome/solid/check
+      question: fontawesome/solid/circle-question
+      warning: fontawesome/solid/triangle-exclamation
+      failure: fontawesome/solid/bomb
+      danger: fontawesome/solid/skull
+      bug: fontawesome/solid/robot
+      example: fontawesome/solid/flask
+      quote: fontawesome/solid/quote-left
+  custom_dir: overrides
+  features:
+    - content.action.edit
+    - content.tabs.link
+    - content.tooltips
+    - navigation.footer
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.path
+    - navigation.sections
+    - navigation.indexes
+    - navigation.tabs
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+    - toc.follow
+  language: zh
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: 切换到浅色模式
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      toggle:
+        icon: material/brightness-7
+        name: 切换到深色模式
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      toggle:
+        icon: material/brightness-4
+        name: 切换到自动
+watch:
+  - includes

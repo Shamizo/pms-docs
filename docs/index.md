@@ -9,7 +9,7 @@ comments: false
 === "生存服"
     对外开放加入 群号: ``768688996``
 
-    生存服为 **[LightingLuminol](https://github.com/LuminolMC/LightingLuminol) 1.21.7**
+    生存服为 **[LightingLuminol](https://github.com/LuminolMC/LightingLuminol) 1.21.8**
 
 | 项目 | 信息                                                                                         |
 | :--- | :------------------------------------------------------------------------------------------- |

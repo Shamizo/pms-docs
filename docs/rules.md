@@ -1,4 +1,4 @@
-!!! danger "本服务器禁止作弊"
+!!! danger "本服务器禁止作弊建立虚拟国"
 ## 建议阅读
 [中文 Minecraft Wiki 教程:不该做的事](https://zh.minecraft.wiki/w/Tutorial:%E4%B8%8D%E8%AF%A5%E5%81%9A%E7%9A%84%E4%BA%8B)
 

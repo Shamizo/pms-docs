@@ -7,7 +7,7 @@
 
 >   :material-wrench:{ .md .middle } __自配整合包__
 >
->   建议使用1.21.7 Fabric作为底包  
+>   建议使用1.21.8 Fabric作为底包  
 
 </div>
 
@@ -26,16 +26,12 @@
 7. 同意资源包下载
 8. 注册/reg 密码 重复密码
 
-??? question "游玩卡顿"
-   - 家里是电信网**选择ct.shamizo.top**<br>
-   - 家里是移动网**选择shamizo.top**<br>
-   - 家里是联通网**选择shamizo.top**<br>
+??? question "添加服务器"
+   - 大厅1**shamizo.top**<br>
+   - 大厅2**minghy.icu**<br>
 
     ### 为什么要分线路
-     
-    因为服务器不是三网BGP
-
-    电信需要走内网穿透, 延迟可能会不理想
+     因为要容灾
 
 ## 4. 排查故障
 如果你连不上了，请看[常见问题解答](FAQs.md)

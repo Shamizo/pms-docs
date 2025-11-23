@@ -9,13 +9,13 @@ comments: false
 === "生存服"
     对外开放加入 群号: ``768688996``
 
-    生存服为 **[LightingLuminol](https://github.com/LuminolMC/LightingLuminol) 1.21.8**
+    生存服为 **[Mohist](https://mohistmc.com/) 1.20.1**
 
 | 项目 | 信息                                                                                         |
 | :--- | :------------------------------------------------------------------------------------------- |
-| CPU  | [Intel® Core™ E5-2667 v2](https://www.intel.cn/content/www/cn/zh/products/sku/75273/intel-xeon-processor-e52667-v2-25m-cache-3-30-ghz/specifications.html "最大睿频频率 3.30GHz 16核") |
+| CPU  | [Intel® Core™ Xeon( R) Gold 6146]( "最大睿频频率 4.20GHz") |
 | 内存 | 32G |
-| 网络 | 移动宽带<br />雨云转发 50Mbps                                                          |                                                        |
+| 网络 | 电信宽带<br />FRP转发 50Mbps                                                          |                                                      |
 
 ## 赞助机制
 

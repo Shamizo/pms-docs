@@ -7,7 +7,7 @@ hide:
 - 服务器提供
 
 ## Celestus
-- 15 元（微信）
+- 每月12 元（微信）
 ## 1145145
 - 55元（微信）
 ## MingJu
@@ -26,7 +26,7 @@ hide:
 
 在赞助后, 你的游戏 ID 会被登记到上文的赞助者名单上(所以请务必备注你的游戏 ID)
 
-![赞助码](https://i.postimg.cc/RCYkgczm/1758374692474.jpg)
+![赞助码](https://i.postimg.cc/Sxv6NpV7/mm-reward-qrcode-1765701684676.png)
 /// caption
 赞助二维码
 ///

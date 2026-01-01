@@ -9,8 +9,8 @@ comments: false
 === "生存服"
     对外开放加入 群号: ``768688996``
 
-    生存服为 **[Mohist](https://mohistmc.com/) 1.20.1**
-
+    模组服为 **[Mohist](https://mohistmc.com/) 1.20.1**
+    原版服为 **[ArchLight](https://arclight.izzel.io/) 1.21.1**
 | 项目 | 信息                                                                                         |
 | :--- | :------------------------------------------------------------------------------------------- |
 | CPU  | [Intel® Core™ Xeon( R) Gold 6146]( "最大睿频频率 4.20GHz") |

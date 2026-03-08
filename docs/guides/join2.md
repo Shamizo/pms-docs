@@ -7,31 +7,31 @@ sidebar: auto
 
 !!! tip "主菜单"
 
-![主菜单界面](./img/1vEHDld5GrXoAsKJ/1769087059939-8d086219-ca1b-4fde-aa41-19d5ed83717e-458677.png)
+![主菜单界面](docs/guides/img/1vEHDld5GrXoAsKJ/1769087059939-8d086219-ca1b-4fde-aa41-19d5ed83717e-458677.png)
 
 ## 快捷工作台/末影箱/潜影箱
-![快捷功能界面](./img/1vEHDld5GrXoAsKJ/1769087234618-fbb1d5e2-3f07-4359-9397-fc8af4007d23-609357.jpeg)
+![快捷功能界面](docs/guides/img/1vEHDld5GrXoAsKJ/1769087234618-fbb1d5e2-3f07-4359-9397-fc8af4007d23-609357.jpeg)
 - 末影箱和工作台：点击即可打开
 - 潜影盒：需要手持潜影盒右键打开
 
 ## 矿石连锁/树木连锁
-![连锁功能开关](./img/1vEHDld5GrXoAsKJ/1769087387964-305012b0-393e-4993-af63-c96846b564a1-539259.jpeg)
+![连锁功能开关](docs/guides/img/1vEHDld5GrXoAsKJ/1769087387964-305012b0-393e-4993-af63-c96846b564a1-539259.jpeg)
 打开开关后，**手持<span style="color: #ecaa04;">稿子</span>挖矿**或**手持<span style="color: #ecaa04;">斧子</span>砍树**即可触发连锁功能
 
 ## 传送/家
-![我的家功能界面](./img/1vEHDld5GrXoAsKJ/1769087632233-feaf411e-b9c8-4b6a-86c9-2fadfa4ce725-925244.jpeg)
+![我的家功能界面](docs/guides/img/1vEHDld5GrXoAsKJ/1769087632233-feaf411e-b9c8-4b6a-86c9-2fadfa4ce725-925244.jpeg)
 - 设置家：聊天框输入 `/sethome 家的名字`
   例如：`/sethome 刷铁机`
 - 回家：点击菜单里的<span style="color: #ecaa04;">我的家</span>
 
-![传送指令说明](./img/1vEHDld5GrXoAsKJ/1769087735028-381683b0-841f-4fd0-b3ea-4a668981f26c-393039.webp)
+![传送指令说明](docs/guides/img/1vEHDld5GrXoAsKJ/1769087735028-381683b0-841f-4fd0-b3ea-4a668981f26c-393039.webp)
 - 向玩家发起传送申请：`/tpa 玩家名`
   例如：`/tpa Shamizo`
 - 邀请玩家传送到你这里：`/tpahere`
 - 返回死亡地点：`/back`
 
 ## 领地
-![领地功能界面](./img/1vEHDld5GrXoAsKJ/1769087897349-559e672c-ab10-4cf8-a795-f42d1262d042-266979.png)
+![领地功能界面](docs/guides/img/1vEHDld5GrXoAsKJ/1769087897349-559e672c-ab10-4cf8-a795-f42d1262d042-266979.png)
 
 点击下方按钮，查看领地详细使用教程：
 
@@ -40,22 +40,22 @@ sidebar: auto
 （注：点击后将在新窗口打开教程页面，建议使用浏览器访问以获得最佳体验）
 
 ## 公会系统
-![公会系统教程](./img/1vEHDld5GrXoAsKJ/1769088095948-ae38b627-cf0b-411c-b3ae-f247c7d297ec-486927.png)
+![公会系统教程](docs/guides/img/1vEHDld5GrXoAsKJ/1769088095948-ae38b627-cf0b-411c-b3ae-f247c7d297ec-486927.png)
 教程如图所示
 
 ## 称号系统
-![称号系统界面](./img/1vEHDld5GrXoAsKJ/1769088168216-8230c5ec-a95f-4803-b55e-613da08c0e46-789165.png)
+![称号系统界面](docs/guides/img/1vEHDld5GrXoAsKJ/1769088168216-8230c5ec-a95f-4803-b55e-613da08c0e46-789165.png)
 - 所有称号免费，支持自定义
 
 ## 赚取金币
 ### 1. 签到奖励
-![签到金币说明](./img/1vEHDld5GrXoAsKJ/1769088013237-8db1d385-81f9-468d-a069-f0010ade6644-908626.png)
+![签到金币说明](docs/guides/img/1vEHDld5GrXoAsKJ/1769088013237-8db1d385-81f9-468d-a069-f0010ade6644-908626.png)
 - 每天自动发放500金币 😋
 
 ### 2. 其他获取方式
-![金币获取方式1](./img/1vEHDld5GrXoAsKJ/1769088214102-d99ce515-10ad-42ce-94d1-7f92e0c3e11c-507977.png)
-![金币获取方式2](./img/1vEHDld5GrXoAsKJ/1769088283635-75ad2a94-059b-411a-a6b9-e3d5c880d39a-910214.png)
-![金币获取方式3](./img/1vEHDld5GrXoAsKJ/1769088285203-a4f1b350-a1e4-46df-914d-f18fdccecc5d-148477.png)
+![金币获取方式1](docs/guides/img/1vEHDld5GrXoAsKJ/1769088214102-d99ce515-10ad-42ce-94d1-7f92e0c3e11c-507977.png)
+![金币获取方式2](docs/guides/img/1vEHDld5GrXoAsKJ/1769088283635-75ad2a94-059b-411a-a6b9-e3d5c880d39a-910214.png)
+![金币获取方式3](docs/guides/img/1vEHDld5GrXoAsKJ/1769088285203-a4f1b350-a1e4-46df-914d-f18fdccecc5d-148477.png)
 以上方式均可赚取金币，具体教程在菜单内查看
 
 !!! tip "如何在游戏里听网易云？"
@@ -65,7 +65,7 @@ sidebar: auto
 [下载听歌Mod](https://www.123865.com/s/4ReRVv-tT5U3){ .md-button .md-button--primary target="_blank" }
 
 （注：暂未找到1.21.8版本，可使用1.21.6版本替代）
-![网易云mod版本说明](./img/1vEHDld5GrXoAsKJ/1769088777476-dd861666-017b-41b9-a53f-bf211d24a458-131743.png)
+![网易云mod版本说明](docs/guides/img/1vEHDld5GrXoAsKJ/1769088777476-dd861666-017b-41b9-a53f-bf211d24a458-131743.png)
 
 ## 超远视距
 ### 注意
@@ -111,7 +111,7 @@ sidebar: auto
   A: 更新显卡驱动，并在模组设置中关闭 "Dynamic Lighting" 选项
 
 ## 防盗
-![防盗功能界面](./img/1vEHDld5GrXoAsKJ/1769088870855-7c036d4f-39e5-4af5-8977-b68e3a93e3c3-866093.png)
+![防盗功能界面](docs/guides/img/1vEHDld5GrXoAsKJ/1769088870855-7c036d4f-39e5-4af5-8977-b68e3a93e3c3-866093.png)
 - 操作记录：点击望远镜/门等方块，可查看“xx在xx时间拿走了xx”的记录
 - 上锁方式：**手持<span style="color: #ecaa04;">告示牌</span>点击门或箱子**即可上锁
 

@@ -3,15 +3,19 @@ hide:
   - navigation
 ---
 > 您的支持是我们坚持下去的最大动力
+
 ## HXNET管理组
 - 服务器提供
 
 ## Celestus
 - 每月12 元（微信）
+
 ## 1145145
 - 55元（微信）
+
 ## MingJu
 - 1元 (微信)
+
 ## cuberW
 - 0.01元 (微信)<br>
 注: 同金额排名不分先后  
@@ -27,6 +31,5 @@ hide:
 在赞助后, 你的游戏 ID 会被登记到上文的赞助者名单上(所以请务必备注你的游戏 ID)
 
 ![赞助码](https://i.postimg.cc/Sxv6NpV7/mm-reward-qrcode-1765701684676.png)
-/// caption
+
 赞助二维码
-///
